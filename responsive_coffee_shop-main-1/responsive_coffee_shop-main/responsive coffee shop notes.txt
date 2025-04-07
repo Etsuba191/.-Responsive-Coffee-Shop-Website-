@@ -1,0 +1,14 @@
+Responsive coffeee shop website( HTML, CSS and Java Script)
+1. !+enter in the first line of hrml giev the body
+2. yuou can copy paste fonts like from cdnjs website and link to your html
+3. Downloading fonts from google font
+4. change name of image to use easly, like home, blo...
+5. UI tool figma
+6. used visual studio code with Laetus: Dark Vibrant Theme extension
+6. Google font, like nunito
+7. Shift + Alt + Down Arrow (to duplicate the line below)
+8. you can take default font style or from web from differentr sources, like adobe, google font
+9.
+
+
+------stopped at google font inserting and error with logo posotion
